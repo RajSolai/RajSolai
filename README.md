@@ -25,4 +25,4 @@ Am Solai Raj, I live in Chennai,TN,India. I develop Flutter, React, Linux Deskto
 
 ## Stats 📈
 
-[![RajSolai's GitHub stats](https://github-readme-stats.vercel.app/api?username=RajSolai&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+[![RajSolai's GitHub stats](https://github-readme-stats.vercel.app/api?username=RajSolai&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
