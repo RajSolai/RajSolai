@@ -25,6 +25,9 @@ Thanks for Checking out my profile, I took the path of computers when I started 
 
 <a href="http://www.github.com/RajSolai"><img src="https://github-readme-stats.vercel.app/api?username=RajSolai&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="RajSolai's GitHub stats" /></a>
 
+<p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="60" /><b>Git profile Trophies</b></h4></p><br>
+<img src="https://github-profile-trophy.vercel.app/?username=yadev64&theme=gruvbox" />
+
 ### Support Me
 
 <a href="https://www.buymeacoffee.com/rajsolai"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
