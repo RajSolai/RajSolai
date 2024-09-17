@@ -6,7 +6,7 @@ Student Who Codes Web , Mobile, GTK (Linux) Apps, IoT and Smart Contracts.
 
 Thanks for Checking out my profile, I took the path of computers when I started creating mini flash games by the age of 12. From then I am learning and updating myself, I used to create simple but essential mini apps and tools for masses. If you like my Project STAR it, having any issues with it ? START IT (Create an Issue :) 
 
-* 🌍  I'm based in Chennai
+* 🌍  I'm based in Kochi
 * 🖥️  See my portfolio at [Online Portfolio](http://solairaj.rf.gd) 
 * ✉️  You can contact me at [msraj085@gmail.com](mailto:msraj085@gmail.com) 
 * 🤝  I'm open to collaborating.on Any Interesting Projects involving IoT, Linux and Blockchain.
